@@ -9,7 +9,7 @@ OMG
     functionality
     non-functionality requirement
     Constraints
-    excepted case
+    expected case
 
 Name
 =================
